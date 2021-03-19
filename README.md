@@ -1,6 +1,6 @@
 <img src="https://www.secube.eu/site/templates/dist/img/logo.png" width="400px" />
 
-# SEfile™
+# SEfile™ - Data-at-rest Protection
 Copyright (C) 2021 Blu5 Labs Ltd.
 
 ## Licence
